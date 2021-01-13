@@ -1,0 +1,1102 @@
+P: 0.018, I: 0 , D: 0
+Sending data...
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2859.98 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2859.99
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2628 Angular_Rate 0.0091 Angle_Accel -72.2718
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38190
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2859.88 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2859.88
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2600 Angular_Rate -0.0062 Angle_Accel -72.2576
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38303
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2859.97 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2859.95
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2619 Angular_Rate -0.0214 Angle_Accel -72.2633
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38406
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2859.92 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2859.93
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2613 Angular_Rate 0.0091 Angle_Accel -72.2587
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.69 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38509
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2859.95 Inner_Out_D -0.03 Inner_Out_I 0.00 Inner_Out_P 2859.98
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2628 Angular_Rate 0.0396 Angle_Accel -72.2641
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38602
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.02 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.02
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2637 Angular_Rate 0.0014 Angle_Accel -72.2739
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.00 Inner_Out_D -0.02 Inner_Out_I 0.00 Inner_Out_P 2860.02
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2636 Angular_Rate 0.0243 Angle_Accel -72.2751
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.66 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38808
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.06 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.05
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2645 Angular_Rate -0.0062 Angle_Accel -72.2720
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.68 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 38901
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.00 Inner_Out_D -0.02 Inner_Out_I 0.00 Inner_Out_P 2860.03
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2639 Angular_Rate 0.0320 Angle_Accel -72.2544
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.52 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39004
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.02 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.03
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2640 Angular_Rate 0.0091 Angle_Accel -72.2762
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.50 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39107
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2859.99 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.00
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2632 Angular_Rate 0.0167 Angle_Accel -72.2566
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39200
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.05 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.05
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2645 Angular_Rate -0.0062 Angle_Accel -72.2762
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39303
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.02 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.03
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2640 Angular_Rate 0.0091 Angle_Accel -72.2642
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.66 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39406
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.11 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.11
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2662 Angular_Rate 0.0091 Angle_Accel -72.2782
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39509
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.15 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.16
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2674 Angular_Rate 0.0091 Angle_Accel -72.2674
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39602
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.16 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.16
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2674 Angular_Rate 0.0091 Angle_Accel -72.2544
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.11 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.11
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2660 Angular_Rate 0.0014 Angle_Accel -72.2608
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39808
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.09 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.09
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2655 Angular_Rate 0.0014 Angle_Accel -72.2521
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.60 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 39901
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.10 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.10
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2659 Angular_Rate 0.0091 Angle_Accel -72.2695
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40004
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.27 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.27
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2703 Angular_Rate 0.0014 Angle_Accel -72.2610
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40107
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.18 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.18
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2680 Angular_Rate 0.0091 Angle_Accel -72.2707
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40200
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.23 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.24
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2696 Angular_Rate 0.0167 Angle_Accel -72.2760
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.66 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40303
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.26 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2860.25
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2698 Angular_Rate -0.0138 Angle_Accel -72.2693
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40406
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.20 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.20
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2684 Angular_Rate 0.0014 Angle_Accel -72.2620
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40509
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.16 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.16
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2673 Angular_Rate -0.0062 Angle_Accel -72.2576
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.71 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40602
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.08 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.09
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2655 Angular_Rate 0.0091 Angle_Accel -72.2596
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40706
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.19 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.17
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2676 Angular_Rate -0.0214 Angle_Accel -72.2793
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40809
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.24 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.24
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2694 Angular_Rate 0.0014 Angle_Accel -72.2826
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.46 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 40903
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.20 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.20
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2683 Angular_Rate -0.0062 Angle_Accel -72.2511
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41007
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.16 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.15
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2672 Angular_Rate -0.0062 Angle_Accel -72.2697
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41101
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.14 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.13
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2667 Angular_Rate -0.0062 Angle_Accel -72.2587
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.49 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41205
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.18 Inner_Out_D -0.02 Inner_Out_I 0.00 Inner_Out_P 2860.19
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2683 Angular_Rate 0.0243 Angle_Accel -72.2848
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41309
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.29 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.27
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2701 Angular_Rate -0.0291 Angle_Accel -72.2662
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.62 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.34 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.32
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2716 Angular_Rate -0.0291 Angle_Accel -72.2817
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.62 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41507
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.32 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.32
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2717 Angular_Rate 0.0091 Angle_Accel -72.2642
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.52 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41601
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.30 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.29
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2708 Angular_Rate -0.0062 Angle_Accel -72.2489
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.52 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.47 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.47
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2756 Angular_Rate 0.0014 Angle_Accel -72.2718
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.47 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41809
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.47 Inner_Out_D -0.02 Inner_Out_I 0.00 Inner_Out_P 2860.49
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2760 Angular_Rate 0.0243 Angle_Accel -72.2826
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 41903
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.51 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.51
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2765 Angular_Rate -0.0062 Angle_Accel -72.2913
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42007
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.55 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.54
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2775 Angular_Rate -0.0062 Angle_Accel -72.2879
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42101
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.51 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.52
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2768 Angular_Rate 0.0091 Angle_Accel -72.2686
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.51 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42205
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.48 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.48
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2759 Angular_Rate 0.0091 Angle_Accel -72.2805
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.47 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42309
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.49 Inner_Out_D -0.02 Inner_Out_I 0.00 Inner_Out_P 2860.51
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2767 Angular_Rate 0.0243 Angle_Accel -72.2696
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.58 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.58
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2785 Angular_Rate 0.0091 Angle_Accel -72.2838
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42507
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.55 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.55
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2775 Angular_Rate -0.0062 Angle_Accel -72.2521
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.49 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42601
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.46 Inner_Out_D -0.02 Inner_Out_I 0.00 Inner_Out_P 2860.48
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2758 Angular_Rate 0.0243 Angle_Accel -72.2672
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.38 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.38
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2732 Angular_Rate 0.0014 Angle_Accel -72.2544
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.70 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42809
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.41 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.40
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2737 Angular_Rate -0.0062 Angle_Accel -72.2739
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.75 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 42903
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.37 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.35
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2722 Angular_Rate -0.0291 Angle_Accel -72.2760
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.84 Outer_PID_Output -0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.02
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43007
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.34 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.34
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2720 Angular_Rate 0.0014 Angle_Accel -72.2781
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43101
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.35 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.34
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2721 Angular_Rate -0.0062 Angle_Accel -72.2741
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.60 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43205
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.27 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.27
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2703 Angular_Rate 0.0014 Angle_Accel -72.2717
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43309
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.39 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.39
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2734 Angular_Rate 0.0014 Angle_Accel -72.2741
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.68 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.31 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.32
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2715 Angular_Rate 0.0091 Angle_Accel -72.2632
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.60 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43507
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.44 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.44
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2748 Angular_Rate 0.0091 Angle_Accel -72.2675
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.60 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43601
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.45 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.46
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2754 Angular_Rate 0.0167 Angle_Accel -72.2760
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.44 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.43
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2744 Angular_Rate -0.0214 Angle_Accel -72.2598
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43809
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.44 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.44
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2746 Angular_Rate -0.0062 Angle_Accel -72.2814
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 43903
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.50 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.50
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2764 Angular_Rate 0.0014 Angle_Accel -72.2772
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44007
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.50 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.50
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2762 Angular_Rate 0.0014 Angle_Accel -72.2772
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44101
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.48 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2860.47
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2754 Angular_Rate -0.0138 Angle_Accel -72.2596
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44205
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.45 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2860.45
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2750 Angular_Rate -0.0062 Angle_Accel -72.2727
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44309
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.37 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.38
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2730 Angular_Rate 0.0091 Angle_Accel -72.2640
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.68 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.33 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2860.32
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2717 Angular_Rate -0.0138 Angle_Accel -72.2729
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.69 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44507
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.39 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.40
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2736 Angular_Rate 0.0091 Angle_Accel -72.2826
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.66 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44601
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.38 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.38
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2731 Angular_Rate 0.0014 Angle_Accel -72.2739
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.40 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2860.39
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2734 Angular_Rate -0.0138 Angle_Accel -72.2717
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.52 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44809
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.49 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.47
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2756 Angular_Rate -0.0214 Angle_Accel -72.2902
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.56 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 44903
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.53 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2860.51
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2766 Angular_Rate -0.0214 Angle_Accel -72.2619
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45007
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.45 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2860.45
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2749 Angular_Rate 0.0014 Angle_Accel -72.2739
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45101
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.53 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2860.52
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2768 Angular_Rate -0.0138 Angle_Accel -72.2978
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45205
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.58 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.59
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2787 Angular_Rate 0.0167 Angle_Accel -72.2848
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45300
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.59 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.60
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2790 Angular_Rate 0.0091 Angle_Accel -72.2860
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.60 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45405
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.54 Inner_Out_D -0.01 Inner_Out_I 0.00 Inner_Out_P 2860.55
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2776 Angular_Rate 0.0167 Angle_Accel -72.2848
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45500
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2860.16 Inner_Out_D -0.54 Inner_Out_I 0.00 Inner_Out_P 2860.70
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2817 Angular_Rate 0.7110 Angle_Accel -72.7366
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45605
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2821.65 Inner_Out_D -17.98 Inner_Out_I 0.00 Inner_Out_P 2839.63
+$PWM_Right 0 PWM_Left 0
+$Angle -74.7270 Angular_Rate 23.6526 Angle_Accel -73.2979
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder 0 Right_velocity 0.0000 Left_encoder -9 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta 0.0707 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X -5.7362 Y -2.1628
+$Ms 45700
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2590.30 Inner_Out_D -59.18 Inner_Out_I 0.00 Inner_Out_P 2649.48
+$PWM_Right 0 PWM_Left 0
+$Angle -69.7231 Angular_Rate 77.8671 Angle_Accel -71.6821
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity -0.0519 Left_encoder -11 Left_velocity -25.6410
+$Speed -0.0257 Turning_Rate -0.0000 Theta 0.0707 Right_Angle_Rate -0.0279 Left_Angle_Rate -0.0235 X -7.0488 Y -2.2506
+$Ms 45805
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2205.82 Inner_Out_D -87.62 Inner_Out_I 0.00 Inner_Out_P 2293.44
+$PWM_Right 0 PWM_Left 0
+$Angle -60.3537 Angular_Rate 115.2892 Angle_Accel -61.3477
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output 0.22 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.22
+$Right_encoder -2 Right_velocity -7.2464 Left_encoder -13 Left_velocity -29.4118
+$Speed -12.8087 Turning_Rate 0.1310 Theta 0.0864 Right_Angle_Rate -1.8375 Left_Angle_Rate -23.7799 X -9.6705 Y -2.4724
+$Ms 45906
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1805.02 Inner_Out_D -83.21 Inner_Out_I 0.00 Inner_Out_P 1888.23
+$PWM_Right 0 PWM_Left 0
+$Angle -49.6903 Angular_Rate 109.4909 Angle_Accel -50.1990
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output 0.61 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.61
+$Right_encoder -6 Right_velocity -38.4615 Left_encoder -15 Left_velocity -30.3030
+$Speed -34.5682 Turning_Rate -0.0189 Theta 0.0707 Right_Angle_Rate -36.1550 Left_Angle_Rate -32.9814 X -13.6032 Y -2.8027
+$Ms 46008
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1406.15 Inner_Out_D -80.67 Inner_Out_I 0.00 Inner_Out_P 1486.82
+$PWM_Right 0 PWM_Left 0
+$Angle -39.1269 Angular_Rate 106.1416 Angle_Accel -34.5676
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output 0.46 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.46
+$Right_encoder -7 Right_velocity -22.2222 Left_encoder -15 Left_velocity 0.0000
+$Speed -26.0902 Turning_Rate -0.0872 Theta 0.0628 Right_Angle_Rate -33.3947 Left_Angle_Rate -18.7857 X -14.2595 Y -2.8466
+$Ms 46109
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1054.47 Inner_Out_D -66.35 Inner_Out_I 0.00 Inner_Out_P 1120.82
+$PWM_Right 0 PWM_Left 0
+$Angle -29.4952 Angular_Rate 87.3046 Angle_Accel -20.0585
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output 0.18 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.18
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -14 Left_velocity 4.2553
+$Speed -10.9044 Turning_Rate -0.0560 Theta 0.0550 Right_Angle_Rate -15.5945 Left_Angle_Rate -6.2143 X -13.6029 Y -2.8078
+$Ms 46200
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 786.80 Inner_Out_D -24.76 Inner_Out_I 0.00 Inner_Out_P 811.56
+$PWM_Right 0 PWM_Left 0
+$Angle -21.3567 Angular_Rate 32.5790 Angle_Accel -5.2674
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output 0.03 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.03
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -14 Left_velocity 0.0000
+$Speed -2.5109 Turning_Rate -0.0349 Theta 0.0550 Right_Angle_Rate -5.4375 Left_Angle_Rate 0.4157 X -13.6029 Y -2.8078
+$Ms 46301
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 783.56 Inner_Out_D 35.46 Inner_Out_I 0.00 Inner_Out_P 748.10
+$PWM_Right 0 PWM_Left 0
+$Angle -19.6868 Angular_Rate -46.6599 Angle_Accel -2.3371
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -6 Right_velocity 3.0960 Left_encoder -14 Left_velocity 0.0000
+$Speed -0.0415 Turning_Rate -0.0022 Theta 0.0628 Right_Angle_Rate -0.2280 Left_Angle_Rate 0.1449 X -12.9463 Y -2.7691
+$Ms 46402
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 972.69 Inner_Out_D 60.46 Inner_Out_I 0.00 Inner_Out_P 912.22
+$PWM_Right 0 PWM_Left 0
+$Angle -24.0059 Angular_Rate -79.5579 Angle_Accel -13.9962
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.46 Outer_PID_Output -0.15 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.15
+$Right_encoder -4 Right_velocity 20.8333 Left_encoder -13 Left_velocity 3.7313
+$Speed 8.0208 Turning_Rate 0.0712 Theta 0.0707 Right_Angle_Rate 13.9808 Left_Angle_Rate 2.0607 X -10.9774 Y -2.6375
+$Ms 46503
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1228.91 Inner_Out_D 55.20 Inner_Out_I 0.00 Inner_Out_P 1173.71
+$PWM_Right 0 PWM_Left 0
+$Angle -30.8870 Angular_Rate -72.6380 Angle_Accel -26.8035
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.56 Outer_PID_Output -0.24 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.24
+$Right_encoder -4 Right_velocity 0.0000 Left_encoder -11 Left_velocity 15.6250
+$Speed 12.6302 Turning_Rate 0.0080 Theta 0.0550 Right_Angle_Rate 13.3003 Left_Angle_Rate 11.9601 X -9.6644 Y -2.5549
+$Ms 46604
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1498.76 Inner_Out_D 50.23 Inner_Out_I 0.00 Inner_Out_P 1448.53
+$PWM_Right 0 PWM_Left 0
+$Angle -38.1192 Angular_Rate -66.0920 Angle_Accel -36.1093
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.62 Outer_PID_Output -0.27 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.27
+$Right_encoder -4 Right_velocity 0.0000 Left_encoder -9 Left_velocity 23.2558
+$Speed 14.2155 Turning_Rate -0.1144 Theta 0.0393 Right_Angle_Rate 4.6375 Left_Angle_Rate 23.7934 X -8.3504 Y -2.4929
+$Ms 46705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1654.58 Inner_Out_D 10.87 Inner_Out_I 0.00 Inner_Out_P 1643.71
+$PWM_Right 0 PWM_Left 0
+$Angle -43.2555 Angular_Rate -14.3037 Angle_Accel -45.2833
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.30 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.30
+$Right_encoder -4 Right_velocity 0.0000 Left_encoder -7 Left_velocity 26.3158
+$Speed 16.0727 Turning_Rate -0.1726 Theta 0.0236 Right_Angle_Rate 1.6170 Left_Angle_Rate 30.5283 X -7.0355 Y -2.4516
+$Ms 46806
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1592.37 Inner_Out_D -31.38 Inner_Out_I 0.00 Inner_Out_P 1623.74
+$PWM_Right 0 PWM_Left 0
+$Angle -42.7301 Angular_Rate 41.2841 Angle_Accel -46.2197
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output -0.15 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.15
+$Right_encoder -5 Right_velocity -2.8571 Left_encoder -7 Left_velocity 0.0000
+$Speed 7.6165 Turning_Rate -0.1117 Theta 0.0157 Right_Angle_Rate -1.7387 Left_Angle_Rate 16.9717 X -7.6931 Y -2.4645
+$Ms 46907
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1427.29 Inner_Out_D -43.27 Inner_Out_I 0.00 Inner_Out_P 1470.56
+$PWM_Right 0 PWM_Left 0
+$Angle -38.6989 Angular_Rate 56.9320 Angle_Accel -40.8994
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.68 Outer_PID_Output -0.05 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.05
+$Right_encoder -6 Right_velocity -5.8480 Left_encoder -7 Left_velocity 0.0000
+$Speed 1.8521 Turning_Rate -0.0485 Theta 0.0079 Right_Angle_Rate -2.2136 Left_Angle_Rate 5.9177 X -8.3508 Y -2.4722
+$Ms 47008
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1158.67 Inner_Out_D -59.56 Inner_Out_I 0.00 Inner_Out_P 1218.23
+$PWM_Right 0 PWM_Left 0
+$Angle -32.0587 Angular_Rate 78.3706 Angle_Accel -30.5746
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output 0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.01
+$Right_encoder -6 Right_velocity 0.0000 Left_encoder -7 Left_velocity 0.0000
+$Speed -1.1288 Turning_Rate -0.0381 Theta 0.0079 Right_Angle_Rate -4.3209 Left_Angle_Rate 2.0634 X -8.3508 Y -2.4722
+$Ms 47109
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 902.41 Inner_Out_D -55.76 Inner_Out_I 0.00 Inner_Out_P 958.17
+$PWM_Right 0 PWM_Left 0
+$Angle -25.2150 Angular_Rate 73.3733 Angle_Accel -21.1621
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output 0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.01
+$Right_encoder -7 Right_velocity -5.5249 Left_encoder -7 Left_velocity 0.0000
+$Speed -1.4221 Turning_Rate -0.0265 Theta -0.0000 Right_Angle_Rate -3.6437 Left_Angle_Rate 0.7994 X -9.0086 Y -2.4748
+$Ms 47200
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 635.41 Inner_Out_D -45.96 Inner_Out_I 0.00 Inner_Out_P 681.37
+$PWM_Right 0 PWM_Left 0
+$Angle -17.9307 Angular_Rate 60.4720 Angle_Accel -10.4359
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output 0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.02
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -7 Left_velocity 0.0000
+$Speed -1.8780 Turning_Rate -0.0258 Theta -0.0000 Right_Angle_Rate -4.0347 Left_Angle_Rate 0.2787 X -9.0086 Y -2.4748
+$Ms 47301
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 460.54 Inner_Out_D -12.55 Inner_Out_I 0.00 Inner_Out_P 473.09
+$PWM_Right 0 PWM_Left 0
+$Angle -12.4497 Angular_Rate 16.5115 Angle_Accel -1.0170
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.54 Outer_PID_Output 0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.02
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -8 Left_velocity -1.8018
+$Speed -1.4267 Turning_Rate 0.0002 Theta 0.0079 Right_Angle_Rate -1.4068 Left_Angle_Rate -1.4467 X -9.6664 Y -2.4774
+$Ms 47402
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 530.38 Inner_Out_D 43.56 Inner_Out_I 0.00 Inner_Out_P 486.83
+$PWM_Right 0 PWM_Left 0
+$Angle -12.8112 Angular_Rate -57.3106 Angle_Accel 0.1586
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.49 Outer_PID_Output 0.00 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.00
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -8 Left_velocity 0.0000
+$Speed -0.4975 Turning_Rate 0.0001 Theta 0.0079 Right_Angle_Rate -0.4905 Left_Angle_Rate -0.5044 X -9.6664 Y -2.4774
+$Ms 47503
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 766.18 Inner_Out_D 55.75 Inner_Out_I 0.00 Inner_Out_P 710.43
+$PWM_Right 0 PWM_Left 0
+$Angle -18.6955 Angular_Rate -73.3552 Angle_Accel -9.7824
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.48 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -7 Left_velocity 3.5587
+$Speed 0.2713 Turning_Rate -0.0053 Theta -0.0000 Right_Angle_Rate -0.1710 Left_Angle_Rate 0.7136 X -9.0086 Y -2.4748
+$Ms 47604
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1046.02 Inner_Out_D 61.46 Inner_Out_I 0.00 Inner_Out_P 984.56
+$PWM_Right 0 PWM_Left 0
+$Angle -25.9095 Angular_Rate -80.8701 Angle_Accel -21.8738
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -8 Right_velocity -2.2936 Left_encoder -7 Left_velocity 0.0000
+$Speed 0.1919 Turning_Rate -0.0265 Theta -0.0079 Right_Angle_Rate -2.0249 Left_Angle_Rate 2.4086 X -9.6664 Y -2.4722
+$Ms 47705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1338.29 Inner_Out_D 54.67 Inner_Out_I 0.00 Inner_Out_P 1283.62
+$PWM_Right 0 PWM_Left 0
+$Angle -33.7794 Angular_Rate -71.9361 Angle_Accel -33.3733
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.02
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -6 Left_velocity 4.7847
+$Speed 0.6649 Turning_Rate -0.0164 Theta -0.0157 Right_Angle_Rate -0.7060 Left_Angle_Rate 2.0358 X -9.0086 Y -2.4800
+$Ms 47806
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1581.40 Inner_Out_D 36.59 Inner_Out_I 0.00 Inner_Out_P 1544.81
+$PWM_Right 0 PWM_Left 0
+$Angle -40.6530 Angular_Rate -48.1400 Angle_Accel -42.1568
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.54 Outer_PID_Output -0.15 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.15
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -4 Left_velocity 22.2222
+$Speed 7.8698 Turning_Rate -0.0969 Theta -0.0314 Right_Angle_Rate -0.2462 Left_Angle_Rate 15.9857 X -7.6935 Y -2.5110
+$Ms 47907
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1618.87 Inner_Out_D -19.80 Inner_Out_I 0.00 Inner_Out_P 1638.67
+$PWM_Right 0 PWM_Left 0
+$Angle -43.1229 Angular_Rate 26.0558 Angle_Accel -49.0290
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.22 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.22
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -3 Left_velocity 20.4082
+$Speed 11.5849 Turning_Rate -0.1394 Theta -0.0393 Right_Angle_Rate -0.0858 Left_Angle_Rate 23.2556 X -7.0361 Y -2.5342
+$Ms 48008
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1432.53 Inner_Out_D -56.29 Inner_Out_I 0.00 Inner_Out_P 1488.82
+$PWM_Right 0 PWM_Left 0
+$Angle -39.1796 Angular_Rate 74.0676 Angle_Accel -43.6493
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.70 Outer_PID_Output -0.11 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.11
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -3 Left_velocity 0.0000
+$Speed 5.1373 Turning_Rate -0.0617 Theta -0.0393 Right_Angle_Rate -0.0299 Left_Angle_Rate 10.3046 X -7.0361 Y -2.5342
+$Ms 48109
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1186.51 Inner_Out_D -65.23 Inner_Out_I 0.00 Inner_Out_P 1251.74
+$PWM_Right 0 PWM_Left 0
+$Angle -32.9405 Angular_Rate 85.8245 Angle_Accel -34.4580
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.05 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.05
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -3 Left_velocity 0.0000
+$Speed 1.9903 Turning_Rate -0.0239 Theta -0.0393 Right_Angle_Rate -0.0116 Left_Angle_Rate 3.9922 X -7.0361 Y -2.5342
+$Ms 48200
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 856.20 Inner_Out_D -65.58 Inner_Out_I 0.00 Inner_Out_P 921.78
+$PWM_Right 0 PWM_Left 0
+$Angle -24.2573 Angular_Rate 86.2899 Angle_Accel -21.3258
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.62 Outer_PID_Output -0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.02
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -3 Left_velocity 0.0000
+$Speed 0.6940 Turning_Rate -0.0083 Theta -0.0393 Right_Angle_Rate -0.0040 Left_Angle_Rate 1.3920 X -7.0361 Y -2.5342
+$Ms 48301
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 581.23 Inner_Out_D -44.07 Inner_Out_I 0.00 Inner_Out_P 625.30
+$PWM_Right 0 PWM_Left 0
+$Angle -16.4553 Angular_Rate 57.9925 Angle_Accel -7.5537
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.52 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -3 Left_velocity 0.0000
+$Speed 0.2420 Turning_Rate -0.0029 Theta -0.0393 Right_Angle_Rate -0.0014 Left_Angle_Rate 0.4854 X -7.0361 Y -2.5342
+$Ms 48402
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 421.33 Inner_Out_D -11.79 Inner_Out_I 0.00 Inner_Out_P 433.13
+$PWM_Right 0 PWM_Left 0
+$Angle -11.3981 Angular_Rate 15.5196 Angle_Accel -0.4971
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -3 Left_velocity 0.0000
+$Speed 0.0844 Turning_Rate -0.0010 Theta -0.0393 Right_Angle_Rate -0.0005 Left_Angle_Rate 0.1692 X -7.0361 Y -2.5342
+$Ms 48503
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 458.40 Inner_Out_D 33.60 Inner_Out_I 0.00 Inner_Out_P 424.80
+$PWM_Right 0 PWM_Left 0
+$Angle -11.1789 Angular_Rate -44.2109 Angle_Accel 1.7451
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.68 Outer_PID_Output -0.00 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.00
+$Right_encoder -7 Right_velocity 1.0515 Left_encoder -4 Left_velocity -1.7513
+$Speed -0.4376 Turning_Rate 0.0120 Theta -0.0236 Right_Angle_Rate 0.5663 Left_Angle_Rate -1.4416 X -7.0360 Y -2.5291
+$Ms 48604
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 723.28 Inner_Out_D 73.43 Inner_Out_I 0.00 Inner_Out_P 649.85
+$PWM_Right 0 PWM_Left 0
+$Angle -17.1013 Angular_Rate -96.6172 Angle_Accel -7.5977
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.75 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -4 Left_velocity 0.0000
+$Speed 0.0147 Turning_Rate 0.0062 Theta -0.0236 Right_Angle_Rate 0.5320 Left_Angle_Rate -0.5027 X -7.0360 Y -2.5291
+$Ms 48705
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1047.02 Inner_Out_D 69.21 Inner_Out_I 0.00 Inner_Out_P 977.81
+$PWM_Right 0 PWM_Left 0
+$Angle -25.7319 Angular_Rate -91.0706 Angle_Accel -22.1252
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.05 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.05
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -3 Left_velocity 4.8780
+$Speed 2.0950 Turning_Rate -0.0228 Theta -0.0314 Right_Angle_Rate 0.1855 Left_Angle_Rate 4.0044 X -6.3784 Y -2.5471
+$Ms 48806
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1392.51 Inner_Out_D 64.38 Inner_Out_I 0.00 Inner_Out_P 1328.13
+$PWM_Right 0 PWM_Left 0
+$Angle -34.9509 Angular_Rate -84.7077 Angle_Accel -35.5723
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.04 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.04
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -2 Left_velocity 5.4945
+$Speed 1.4172 Turning_Rate -0.0161 Theta -0.0393 Right_Angle_Rate 0.0647 Left_Angle_Rate 2.7696 X -5.7211 Y -2.5704
+$Ms 48907
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1704.52 Inner_Out_D 52.68 Inner_Out_I 0.00 Inner_Out_P 1651.84
+$PWM_Right 0 PWM_Left 0
+$Angle -43.4695 Angular_Rate -69.3116 Angle_Accel -44.0904
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.07 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.07
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -1 Left_velocity 9.8039
+$Speed 3.3867 Turning_Rate -0.0402 Theta -0.0471 Right_Angle_Rate 0.0226 Left_Angle_Rate 6.7508 X -5.0639 Y -2.5988
+$Ms 49008
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1830.27 Inner_Out_D 3.98 Inner_Out_I 0.00 Inner_Out_P 1826.30
+$PWM_Right 0 PWM_Left 0
+$Angle -48.0605 Angular_Rate -5.2323 Angle_Accel -53.7919
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.67 Outer_PID_Output -0.10 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.10
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -1 Left_velocity 0.0000
+$Speed 4.6176 Turning_Rate -0.0550 Theta -0.0471 Right_Angle_Rate 0.0087 Left_Angle_Rate 9.2264 X -5.0639 Y -2.5988
+$Ms 49100
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1734.33 Inner_Out_D -44.50 Inner_Out_I 0.00 Inner_Out_P 1778.83
+$PWM_Right 0 PWM_Left 0
+$Angle -46.8114 Angular_Rate 58.5571 Angle_Accel -54.5926
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.04 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.04
+$Right_encoder -7 Right_velocity 0.0000 Left_encoder -1 Left_velocity 0.0000
+$Speed 1.6100 Turning_Rate -0.0192 Theta -0.0471 Right_Angle_Rate 0.0030 Left_Angle_Rate 3.2170 X -5.0639 Y -2.5988
+$Ms 49201
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1474.58 Inner_Out_D -69.42 Inner_Out_I 0.00 Inner_Out_P 1544.00
+$PWM_Right 0 PWM_Left 0
+$Angle -40.6315 Angular_Rate 91.3406 Angle_Accel -46.4792
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output 0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.02
+$Right_encoder -8 Right_velocity -1.4409 Left_encoder -2 Left_velocity -4.6729
+$Speed -1.8287 Turning_Rate 0.0126 Theta -0.0471 Right_Angle_Rate -0.7752 Left_Angle_Rate -2.8822 X -6.3782 Y -2.5420
+$Ms 49302
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1153.89 Inner_Out_D -69.89 Inner_Out_I 0.00 Inner_Out_P 1223.79
+$PWM_Right 0 PWM_Left 0
+$Angle -32.2049 Angular_Rate 91.9662 Angle_Accel -30.2164
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output 0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P 0.01
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -2 Left_velocity 0.0000
+$Speed -0.8668 Turning_Rate 0.0016 Theta -0.0471 Right_Angle_Rate -0.7287 Left_Angle_Rate -1.0050 X -6.3782 Y -2.5420
+$Ms 49403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 820.72 Inner_Out_D -57.18 Inner_Out_I 0.00 Inner_Out_P 877.91
+$PWM_Right 0 PWM_Left 0
+$Angle -23.1028 Angular_Rate 75.2425 Angle_Accel -15.1327
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.00 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.00
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -2 Left_velocity 0.0000
+$Speed -0.3022 Turning_Rate 0.0006 Theta -0.0471 Right_Angle_Rate -0.2541 Left_Angle_Rate -0.3504 X -6.3782 Y -2.5420
+$Ms 49504
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 651.57 Inner_Out_D -2.96 Inner_Out_I 0.00 Inner_Out_P 654.53
+$PWM_Right 0 PWM_Left 0
+$Angle -17.2245 Angular_Rate 3.8924 Angle_Accel -3.3340
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -8 Right_velocity 0.0000 Left_encoder -2 Left_velocity 0.0000
+$Speed -0.1054 Turning_Rate 0.0002 Theta -0.0471 Right_Angle_Rate -0.0886 Left_Angle_Rate -0.1222 X -6.3782 Y -2.5420
+$Ms 49605
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 799.87 Inner_Out_D 60.39 Inner_Out_I 0.00 Inner_Out_P 739.48
+$PWM_Right 0 PWM_Left 0
+$Angle -19.4599 Angular_Rate -79.4663 Angle_Accel -2.8849
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.03 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.03
+$Right_encoder -6 Right_velocity 28.5714 Left_encoder -1 Left_velocity 2.2472
+$Speed 1.1084 Turning_Rate -0.0007 Theta -0.0471 Right_Angle_Rate 1.0489 Left_Angle_Rate 1.1680 X -5.0644 Y -2.6091
+$Ms 49706
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1168.21 Inner_Out_D 97.98 Inner_Out_I 0.00 Inner_Out_P 1070.23
+$PWM_Right 0 PWM_Left 0
+$Angle -28.1639 Angular_Rate -128.9201 Angle_Accel -17.4458
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.56 Outer_PID_Output -0.39 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.39
+$Right_encoder -3 Right_velocity 38.4615 Left_encoder 0 Left_velocity 11.2360
+$Speed 21.2604 Turning_Rate 0.1523 Theta -0.0236 Right_Angle_Rate 34.0189 Left_Angle_Rate 8.5019 X -1.7776 Y -2.7253
+$Ms 49807
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 1631.65 Inner_Out_D 92.26 Inner_Out_I 0.00 Inner_Out_P 1539.40
+$PWM_Right 0 PWM_Left 0
+$Angle -40.5105 Angular_Rate -121.3898 Angle_Accel -39.6923
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.47 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.47
+$Right_encoder -2 Right_velocity 29.4118 Left_encoder 1 Left_velocity 12.9870
+$Speed 25.5329 Turning_Rate 0.1377 Theta -0.0236 Right_Angle_Rate 37.0629 Left_Angle_Rate 14.0030 X -0.4624 Y -2.7512
+$Ms 49908
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2105.72 Inner_Out_D 85.15 Inner_Out_I 0.00 Inner_Out_P 2020.57
+$PWM_Right 0 PWM_Left 0
+$Angle -53.1729 Angular_Rate -112.0362 Angle_Accel -55.4927
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.70 Outer_PID_Output -0.23 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.23
+$Right_encoder -1 Right_velocity 6.7114 Left_encoder 2 Left_velocity 6.2112
+$Speed 12.1487 Turning_Rate 0.0524 Theta -0.0236 Right_Angle_Rate 16.5386 Left_Angle_Rate 7.7588 X 0.8529 Y -2.7770
+$Ms 50009
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2437.20 Inner_Out_D 57.63 Inner_Out_I 0.00 Inner_Out_P 2379.57
+$PWM_Right 0 PWM_Left 0
+$Angle -62.6202 Angular_Rate -75.8271 Angle_Accel -66.2096
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.73 Outer_PID_Output -0.15 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.15
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 7.6192 Turning_Rate 0.0139 Theta -0.0236 Right_Angle_Rate 8.7796 Left_Angle_Rate 6.4588 X 0.8529 Y -2.7770
+$Ms 50100
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2649.52 Inner_Out_D 17.71 Inner_Out_I 0.00 Inner_Out_P 2631.82
+$PWM_Right 0 PWM_Left 0
+$Angle -69.2584 Angular_Rate -23.2987 Angle_Accel -74.8360
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.72 Outer_PID_Output -0.06 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.06
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 2.6567 Turning_Rate 0.0048 Theta -0.0236 Right_Angle_Rate 3.0613 Left_Angle_Rate 2.2521 X 0.8529 Y -2.7770
+$Ms 50201
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2700.56 Inner_Out_D 2.07 Inner_Out_I 0.00 Inner_Out_P 2698.49
+$PWM_Right 0 PWM_Left 0
+$Angle -71.0128 Angular_Rate -2.7299 Angle_Accel -71.4650
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.03 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.03
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.9263 Turning_Rate 0.0017 Theta -0.0236 Right_Angle_Rate 1.0674 Left_Angle_Rate 0.7852 X 0.8529 Y -2.7770
+$Ms 50302
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2736.48 Inner_Out_D 0.72 Inner_Out_I 0.00 Inner_Out_P 2735.75
+$PWM_Right 0 PWM_Left 0
+$Angle -71.9935 Angular_Rate -0.9522 Angle_Accel -72.6288
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.02 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.02
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.3230 Turning_Rate 0.0006 Theta -0.0236 Right_Angle_Rate 0.3722 Left_Angle_Rate 0.2738 X 0.8529 Y -2.7770
+$Ms 50403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2758.50 Inner_Out_D -0.15 Inner_Out_I 0.00 Inner_Out_P 2758.66
+$PWM_Right 0 PWM_Left 0
+$Angle -72.5962 Angular_Rate 0.1998 Angle_Accel -72.2222
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.1126 Turning_Rate 0.0002 Theta -0.0236 Right_Angle_Rate 0.1298 Left_Angle_Rate 0.0955 X 0.8529 Y -2.7770
+$Ms 50504
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2776.85 Inner_Out_D 0.11 Inner_Out_I 0.00 Inner_Out_P 2776.74
+$PWM_Right 0 PWM_Left 0
+$Angle -73.0722 Angular_Rate -0.1435 Angle_Accel -72.1097
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.63 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0393 Turning_Rate 0.0001 Theta -0.0236 Right_Angle_Rate 0.0452 Left_Angle_Rate 0.0333 X 0.8529 Y -2.7770
+$Ms 50605
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2791.45 Inner_Out_D 0.08 Inner_Out_I 0.00 Inner_Out_P 2791.37
+$PWM_Right 0 PWM_Left 0
+$Angle -73.4572 Angular_Rate -0.1054 Angle_Accel -72.1284
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.54 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0137 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0158 Left_Angle_Rate 0.0116 X 0.8529 Y -2.7770
+$Ms 50706
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2803.29 Inner_Out_D 0.05 Inner_Out_I 0.00 Inner_Out_P 2803.24
+$PWM_Right 0 PWM_Left 0
+$Angle -73.7695 Angular_Rate -0.0672 Angle_Accel -72.1163
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.61 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0048 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0055 Left_Angle_Rate 0.0040 X 0.8529 Y -2.7770
+$Ms 50807
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2813.05 Inner_Out_D 0.06 Inner_Out_I 0.00 Inner_Out_P 2813.00
+$PWM_Right 0 PWM_Left 0
+$Angle -74.0262 Angular_Rate -0.0748 Angle_Accel -72.1413
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0017 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0019 Left_Angle_Rate 0.0014 X 0.8529 Y -2.7770
+$Ms 50908
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2821.03 Inner_Out_D 0.05 Inner_Out_I 0.00 Inner_Out_P 2820.98
+$PWM_Right 0 PWM_Left 0
+$Angle -74.2362 Angular_Rate -0.0672 Angle_Accel -72.1424
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.69 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0006 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0007 Left_Angle_Rate 0.0005 X 0.8529 Y -2.7770
+$Ms 51009
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2826.96 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2826.93
+$PWM_Right 0 PWM_Left 0
+$Angle -74.3928 Angular_Rate -0.0443 Angle_Accel -72.1445
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.62 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0002 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0003 Left_Angle_Rate 0.0002 X 0.8529 Y -2.7770
+$Ms 51100
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2832.45 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2832.42
+$PWM_Right 0 PWM_Left 0
+$Angle -74.5374 Angular_Rate -0.0443 Angle_Accel -72.1510
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0001 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0001 Left_Angle_Rate 0.0001 X 0.8529 Y -2.7770
+$Ms 51201
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2836.97 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2836.94
+$PWM_Right 0 PWM_Left 0
+$Angle -74.6563 Angular_Rate -0.0367 Angle_Accel -72.1761
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51302
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2840.64 Inner_Out_D 0.05 Inner_Out_I 0.00 Inner_Out_P 2840.60
+$PWM_Right 0 PWM_Left 0
+$Angle -74.7525 Angular_Rate -0.0596 Angle_Accel -72.1652
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.65 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2843.57 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2843.55
+$PWM_Right 0 PWM_Left 0
+$Angle -74.8303 Angular_Rate -0.0291 Angle_Accel -72.1674
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.58 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51504
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2846.05 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2846.03
+$PWM_Right 0 PWM_Left 0
+$Angle -74.8956 Angular_Rate -0.0214 Angle_Accel -72.1695
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.62 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51605
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2848.13 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2848.10
+$PWM_Right 0 PWM_Left 0
+$Angle -74.9501 Angular_Rate -0.0367 Angle_Accel -72.1903
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.68 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51706
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2849.81 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2849.80
+$PWM_Right 0 PWM_Left 0
+$Angle -74.9948 Angular_Rate -0.0062 Angle_Accel -72.1815
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.64 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51807
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2851.22 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2851.20
+$PWM_Right 0 PWM_Left 0
+$Angle -75.0315 Angular_Rate -0.0291 Angle_Accel -72.1825
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 51908
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2852.32 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2852.29
+$PWM_Right 0 PWM_Left 0
+$Angle -75.0603 Angular_Rate -0.0367 Angle_Accel -72.1826
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52009
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2853.12 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2853.10
+$PWM_Right 0 PWM_Left 0
+$Angle -75.0815 Angular_Rate -0.0291 Angle_Accel -72.1705
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.51 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52100
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2853.83 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2853.80
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1001 Angular_Rate -0.0291 Angle_Accel -72.1847
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.50 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52201
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2854.52 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2854.51
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1186 Angular_Rate -0.0214 Angle_Accel -72.1880
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52302
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2855.18 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2855.16
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1358 Angular_Rate -0.0214 Angle_Accel -72.2108
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.54 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2855.79 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2855.78
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1521 Angular_Rate -0.0138 Angle_Accel -72.2023
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.49 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52504
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2856.19 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2856.16
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1621 Angular_Rate -0.0367 Angle_Accel -72.2087
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52605
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2856.62 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2856.62
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1742 Angular_Rate -0.0062 Angle_Accel -72.2044
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.60 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52706
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2856.89 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2856.90
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1815 Angular_Rate 0.0014 Angle_Accel -72.2260
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.54 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52807
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2857.13 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2857.13
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1876 Angular_Rate -0.0062 Angle_Accel -72.1978
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.55 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 52908
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2857.40 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2857.38
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1941 Angular_Rate -0.0291 Angle_Accel -72.2185
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53009
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2857.58 Inner_Out_D 0.01 Inner_Out_I 0.00 Inner_Out_P 2857.57
+$PWM_Right 0 PWM_Left 0
+$Angle -75.1992 Angular_Rate -0.0138 Angle_Accel -72.2185
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.59 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53100
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2857.75 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2857.75
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2039 Angular_Rate -0.0062 Angle_Accel -72.2217
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.57 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53201
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2858.03 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2858.03
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2112 Angular_Rate -0.0062 Angle_Accel -72.2348
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.54 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53302
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2858.17 Inner_Out_D 0.04 Inner_Out_I 0.00 Inner_Out_P 2858.13
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2139 Angular_Rate -0.0520 Angle_Accel -72.2152
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.53 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53403
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2858.24 Inner_Out_D 0.02 Inner_Out_I 0.00 Inner_Out_P 2858.22
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2164 Angular_Rate -0.0291 Angle_Accel -72.2283
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.48 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53504
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2858.28 Inner_Out_D 0.00 Inner_Out_I 0.00 Inner_Out_P 2858.27
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2177 Angular_Rate -0.0062 Angle_Accel -72.2151
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.48 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53605
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2858.40 Inner_Out_D 0.03 Inner_Out_I 0.00 Inner_Out_P 2858.37
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2203 Angular_Rate -0.0367 Angle_Accel -72.2163
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.44 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53706
+$Kp 38.0000 Ki 0.0000 Kd 0.0200 Inner_Setpoint 0.00 Inner_PID_Output 2858.37 Inner_Out_D -0.00 Inner_Out_I 0.00 Inner_Out_P 2858.37
+$PWM_Right 0 PWM_Left 0
+$Angle -75.2202 Angular_Rate 0.0014 Angle_Accel -72.2260
+$Outer_Kp 0.0180 Outer_Ki 0.0000 Outer_Kd 0.0000 Outer_Setpoint -0.49 Outer_PID_Output -0.01 Outer_Out_D 0.00 Outer_Out_I 0.00 Outer_Out_P -0.01
+$Right_encoder -1 Right_velocity 0.0000 Left_encoder 2 Left_velocity 0.0000
+$Speed 0.0000 Turning_Rate 0.0000 Theta -0.0236 Right_Angle_Rate 0.0000 Left_Angle_Rate 0.0000 X 0.8529 Y -2.7770
+$Ms 53807
+Stopped sending data
