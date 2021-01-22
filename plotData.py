@@ -1,9 +1,8 @@
-import serial
 import numpy as np
 import matplotlib.pyplot as plt
 
 def main():
-	file = open('idling_new_vel_calc.txt')
+	file = open('test_2_1_21_21_1.txt')
 	all_arguments = []
 	all_values = np.array([], dtype = float)
 	line = file.readline()
@@ -45,15 +44,15 @@ def main():
 
 	# Outer PID Figure
 	plt.figure(1)
-	plt.plot(x_values, data_dict['Speed'], x_values, data_dict['Outer_Setpoint'])
+	plt.plot(x_values, data_dict['Speed'], x_values, data_dict['Outer_Setpoint'], 'k.')
 	plt.title('Outer PID')
 	plt.legend(['Speed', 'Outer Setpoint'])
 
 	# Inner PID Figure
 	plt.figure(2)
 	plt.title('Inner PID')
-	plt.plot( x_values, data_dict['Inner_Setpoint'],x_values, data_dict['Angle'], x_values, data_dict['Outer_PID_Output'])
-	plt.legend(['Inner Setpoint', 'Angle', 'Outer Output'])
+	plt.plot( x_values, data_dict['Inner_Setpoint'],x_values, data_dict['Angle'])
+	plt.legend(['Inner Setpoint', 'Angle'])
 
 	# Encoder figure
 	plt.figure(3)
@@ -64,18 +63,42 @@ def main():
 	# Odometry figure
 	plt.figure(4)
 	plt.title('Odometry')
-	plt.plot(x_values, data_dict['Speed'], x_values, data_dict['Right_velocity'], x_values, data_dict['Left_velocity'])
-	plt.legend(['Speed', 'Right velocity', 'Left velocity'])
+	plt.plot(x_values, data_dict['Speed'], x_values, data_dict['Left_velocity']*2*np.pi*50.25/240, x_values, data_dict['Right_velocity']*2*np.pi*50.25/240)
+	plt.legend(['Speed', 'Left speed', 'Right speed'])
 
 	# Turning rate figure
 	plt.figure(5)
 	plt.title('Turning Rate')
-	plt.plot(x_values, data_dict['Turning_Rate'])
+	plt.plot(x_values, data_dict['Turning_Rate'], x_values, data_dict["Turn_Setpoint"], 'k.')
+	plt.legend(['Turning Rate', 'Turning Setpoint'])
 
 	plt.figure(6)
 	plt.title("Millis difference")
 	plt.plot(np.diff(data_dict['Ms']))
 
+	#PWM Values
+	plt.figure(7)
+	plt.title("PWM and Inner Loop Output")
+	plt.plot(x_values, data_dict['PWM_Right'], x_values, data_dict['PWM_Left'], x_values, data_dict['Inner_PID_Output'])
+	plt.legend(['Right PWM', 'Left PWM', 'Inner PID Output'])
+
+	#Inner PID Output components
+	plt.figure(8)
+	plt.title("Inner PID Output")
+	plt.plot(x_values, data_dict['Inner_PID_Output'], x_values, data_dict['Inner_Out_D'], x_values, data_dict['Inner_Out_P'])
+	plt.legend(['PID Output', 'D output', 'P Output'])
+
+	#Outer PID Output components
+	plt.figure(10)
+	plt.title("Outer PID Output")
+	plt.plot(x_values, data_dict['Outer_PID_Output'], x_values, data_dict['Outer_Out_I'], x_values, data_dict['Outer_Out_P'])
+	plt.legend(['PID Output', 'I output', 'P Output'])
+
+	#IMU data
+	plt.figure(9)
+	plt.title("IMU")
+	plt.plot(x_values, data_dict['Angle'], x_values, data_dict['Angular_Rate'], x_values, data_dict['Angle_Accel'])
+	plt.legend(['Filtered Angle', 'Angular Rate', 'Accelerometer Angle'])
 
 
 	# for arg in unique_args:
